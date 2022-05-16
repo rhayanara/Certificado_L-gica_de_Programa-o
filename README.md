@@ -1,1 +1,5 @@
-# Certificado_L-gica_de_Programa-o
+# Curso de Lógica de Programação
+
+Segue os Códigos-Fonte dos exemplos mostrados nas aulas.
+
+Curso online pela Softblue.
